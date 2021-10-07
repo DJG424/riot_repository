@@ -1,6 +1,6 @@
 Table of Contents:
 page 1......Welcome Index Page
-page 2......Code Page
+page 2......readme Code Page
 page 3......Sample 1
 page 4......Sample 2
 page 5......Sample 3
